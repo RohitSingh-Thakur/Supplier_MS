@@ -6,4 +6,4 @@ eureka:
 
 spring:
   application:
-    name: SUPPLIER_MS
+    name: SUPPLIER-MS
